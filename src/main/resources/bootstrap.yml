@@ -1,0 +1,6 @@
+# https://cloud.spring.io/spring-cloud-commons/multi/multi__spring_cloud_context_application_context_services.html
+# check out the description above, why we use it?
+spring:
+  application:
+    name: config-service
+
