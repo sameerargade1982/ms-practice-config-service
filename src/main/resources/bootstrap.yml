@@ -2,5 +2,5 @@
 # check out the description above, why we use it?
 spring:
   application:
-    name: config-service
+    name: configservice
 

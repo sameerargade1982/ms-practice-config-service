@@ -16,7 +16,7 @@ spring:
         encrypt.enabled: false
         git:
           uri: https://github.com/sameerargade1982/ms-practice-config-service
-          searchPaths: 
+          searchPaths: authservice
           username: 
           password: 
 
